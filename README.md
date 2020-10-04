@@ -46,41 +46,29 @@ learning.
 These are some projects I like to work on to keep myself organized and efficient
 while doing other work. Sometimes we can't avoid getting distracted from doing
 real work by the temptation of improving a developer tool real quick!
-
-#### [pwd](https://github.com/bclarkx2/pwd)
-
-#### [goto](https://github.com/bclarkx2/goto)
-
-#### [bashful](https://github.com/bclarkx2/bashful)
+* [pwd](https://github.com/bclarkx2/pwd)
+* [goto](https://github.com/bclarkx2/goto)
+* [bashful](https://github.com/bclarkx2/bashful)
 
 ### Linux configurations
 
 Working on your Linux environment should feel like putting on an old glove. Gets
 the job done just the way you like it, but also sometimes randomly gets a hole
 torn in it and takes 6 hours to figure out how to sew it back up.
-
-#### [dotfiles](https://github.com/bclarkx2/dotfiles)
-
-#### [ubuntu-setup](https://github.com/bclarkx2/ubuntu-setup)
-
-#### [bin](https://github.com/bclarkx2/bin)
+* [dotfiles](https://github.com/bclarkx2/dotfiles)
+* [ubuntu-setup](https://github.com/bclarkx2/ubuntu-setup)
+* [bin](https://github.com/bclarkx2/bin)
 
 ### Machine learning
 
 I like to dabble a bit in ML topics.
+* [babble](https://github.com/bclarkx2/babble)
+* [count](https://github.com/bclarkx2/count)
 
-#### [babble](https://github.com/bclarkx2/babble)
-
-#### [count](https://github.com/bclarkx2/count)
-
-#### CS things
-
-#### [euler](https://github.com/bclarkx2/euler)
-
-#### [latex](https://github.com/bclarkx2/latex)
-
-#### [lava](https://github.com/bclarkx2/lava)
+### CS things
+* [euler](https://github.com/bclarkx2/euler)
+* [latex](https://github.com/bclarkx2/latex)
+* [lava](https://github.com/bclarkx2/lava)
 
 ### Miscellaneous
-
-#### [Pathfinder](https://github.com/frankhucek/Pathfinder)
+* [Pathfinder](https://github.com/frankhucek/Pathfinder)
