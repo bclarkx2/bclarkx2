@@ -2,6 +2,10 @@
 
 Hi! I am a software engineer trying to write some code and learn things.
 
+See my [resumé](https://bclarkx2.github.io/resume/resume.pdf) for more details
+(along with the [source code](https://github.com/bclarkx2/resume) that generates
+it!).
+
 ## Interests
 
 I am a daily Linux user (Ubuntu), and take a perverse joy in breaking basic
